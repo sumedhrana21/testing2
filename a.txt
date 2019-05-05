@@ -1,1 +1,3 @@
-Hello - this is the 1 st version of the file
+Hello World
+
+Welcome to Git
